@@ -1,4 +1,4 @@
-# instal-apache
+# setting-mikrotik
 Langkah-langkah-setting-mikrotik
 Langkah pertama adalah, koneksikan port 2 ke modem mikrotik, dan port 3 ke pc Anda. Jalankan winboxnya, kemudian buka tab Neighbors. Buka aplikasi winbox, kemudian isi kolom di winbox seperti ini: • Connect To = MAC address • Login = admin • Password = Silahkan di kosongkan • Kemudian Klik “Connect”
 
